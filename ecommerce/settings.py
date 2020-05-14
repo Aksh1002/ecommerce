@@ -133,10 +133,10 @@ MEDIA_ROOT=os.path.join(BASE_DIR,'static/images')
 
 EMAIL_USE_TLS = True
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'email6@gmail.com'
-EMAIL_HOST_PASSWORD = 'e'
+EMAIL_HOST_USER = 'aakash6@gmail.com'
+EMAIL_HOST_PASSWORD = 'apppassword'
 EMAIL_PORT = 587
 
 
-PAYPAL_RECIEVER_EMAIL='aakash@gmail.com'
-PAYPAL_TEST=True
+# PAYPAL_RECIEVER_EMAIL='aakash@gmail.com'
+# PAYPAL_TEST=True
